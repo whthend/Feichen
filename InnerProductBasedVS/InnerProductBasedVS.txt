@@ -1,0 +1,83 @@
+Randomized Auditting
+TEST CASE: D:\test\vs\test1\simplewiki-20130608-oldimage.sql.gz
+file size is: 2330Bytes
+storage cost is: 3432Bytes
+communication size is: 368Bytes
+time is: (ns)
+2107799359    331300264    46613    170286861    17626870    
+correspoding to keygen(0), outsource (1), audit(2), prove(3), verify(4)
+verification error: 0
+
+Deterministic Auditting
+TEST CASE: D:\test\vs\test1\simplewiki-20130608-oldimage.sql.gz
+file size is: 2330Bytes
+storage cost is: 3432Bytes
+communication size is: 368Bytes
+time is: (ns)
+1628601820    329723402    48335    1106017237    1484463125    
+correspoding to keygen(0), outsource (1), audit(2), prove(3), verify(4)
+
+********************************
+
+Randomized Auditting
+TEST CASE: D:\test\vs\test2\simplewiki-20130608-pages-articles-multistream-index.txt.bz2
+file size is: 1522748Bytes
+storage cost is: 2140160Bytes
+communication size is: 368Bytes
+time is: (ns)
+331321121    211678551565    121202    178035368    18128086    
+correspoding to keygen(0), outsource (1), audit(2), prove(3), verify(4)
+verification error: 0
+
+Deterministic Auditting
+TEST CASE: D:\test\vs\test2\simplewiki-20130608-pages-articles-multistream-index.txt.bz2
+file size is: 1522748Bytes
+storage cost is: 2139232Bytes
+communication size is: 368Bytes
+time is: (ns)
+395555653    210832924799    69192    202863727075    2300002053    
+correspoding to keygen(0), outsource (1), audit(2), prove(3), verify(4)
+
+********************************
+
+Randomized Auditting
+TEST CASE: D:\test\vs\test3\simplewiki-20130608-stub-meta-current.xml.gz
+file size is: 24666880Bytes
+storage cost is: 34339416Bytes
+communication size is: 368Bytes
+time is: (ns)
+842442914    3516962682698    83329    190722337    20280521    
+correspoding to keygen(0), outsource (1), audit(2), prove(3), verify(4)
+verification error: 0
+
+Deterministic Auditting
+TEST CASE: D:\test\vs\test3\simplewiki-20130608-stub-meta-current.xml.gz
+file size is: 24666880Bytes
+storage cost is: 34339288Bytes
+communication size is: 368Bytes
+time is: (ns)
+1506807687    3653035490155    99981    3542552723074    11139034999    
+correspoding to keygen(0), outsource (1), audit(2), prove(3), verify(4)
+
+********************************
+
+Deterministic Auditting
+TEST CASE: D:\test\vs\test4\simplewiki-20130608-pages-meta-current.xml.bz2
+file size is: 127735585Bytes
+storage cost is: 170631832Bytes
+communication size is: 368Bytes
+time is: (ns)
+478050426    17285442073048    79456    16964575946926    56586462606
+correspoding to keygen(0), outsource (1), audit(2), prove(3), verify(4)
+system is running in loop 0
+system is running in loop 1
+
+Randomized Auditting
+TEST CASE: D:\test\vs\test4\simplewiki-20130608-pages-meta-current.xml.bz2
+file size is: 127735585Bytes
+storage cost is: 170665064Bytes
+communication size is: 368Bytes
+time is: (ns)
+296948523    17038286966523    5971786    168160496    17044320
+correspoding to keygen(0), outsource (1), audit(2), prove(3), verify(4)
+verification error: 0

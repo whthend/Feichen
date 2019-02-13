@@ -1,0 +1,9 @@
+TEST CASE: D:\test\vs\test1\simplewiki-20130608-oldimage.sql.gz
+
+file size is: 2330Bytes
+signature size is: 776Bytes
+communication size is: 53571Bytes
+time is: (ns)
+1475919348    831748460    25301    828047405    725933790    
+correspoding to keygen(0), outsource (1), audit(2), prove(3), verify(4)
+verification error: 0

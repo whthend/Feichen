@@ -1,0 +1,49 @@
+system is running in loop 0
+system is running in loop 1
+system is running in loop 2
+system is running in loop 3
+system is running in loop 4
+system is running in loop 5
+system is running in loop 6
+system is running in loop 7
+system is running in loop 8
+system is running in loop 9
+system is running in loop 10
+system is running in loop 11
+system is running in loop 12
+system is running in loop 13
+system is running in loop 14
+system is running in loop 15
+system is running in loop 16
+system is running in loop 17
+system is running in loop 18
+system is running in loop 19
+system is running in loop 20
+system is running in loop 21
+system is running in loop 22
+system is running in loop 23
+system is running in loop 24
+system is running in loop 25
+system is running in loop 26
+system is running in loop 27
+system is running in loop 28
+system is running in loop 29
+system is running in loop 30
+system is running in loop 31
+system is running in loop 32
+system is running in loop 33
+system is running in loop 34
+system is running in loop 35
+system is running in loop 36
+system is running in loop 37
+system is running in loop 38
+system is running in loop 39
+TEST CASE: D:\test\vs\test3\simplewiki-20130608-stub-meta-current.xml.gz
+
+file size is: 24666880Bytes
+signature size is: 9102464Bytes
+communication size is: 150348Bytes
+time is: (ns)
+1514274117    18409613954738    2005727    1009065614    767901187    
+correspoding to keygen(0), outsource (1), audit(2), prove(3), verify(4)
+verification error: 0

@@ -1,0 +1,9 @@
+TEST CASE: D:\test\vs\test2\simplewiki-20130608-pages-articles-multistream-index.txt.bz2
+
+file size is: 1522748Bytes
+signature size is: 565072Bytes
+communication size is: 59965Bytes
+time is: (ns)
+1459627874    1119599669198    38618    927037882    732489893    
+correspoding to keygen(0), outsource (1), audit(2), prove(3), verify(4)
+verification error: 0
