@@ -7,8 +7,7 @@ package fchen;
  * );
  * 
  * @author Chen, Fei (https://sites.google.com/site/chenfeiorange/)
- * @author First draft on 18-06-2013. License: GNU GPL
- * @author Last updated on 04-11-2013.
+ * @author Last updated on 04-12-2016.
  * @author Email: chenfeiorange@163.com
  * 
  */
@@ -17,8 +16,8 @@ public class PerformanceEvaluation
 
     public static void main(String[] args)
     {
-	    Benchmark b = new Benchmark("D:\\test\\vs\\test5\\simplewiki-20130608-pages-meta-history.xml.7z");
-	    b.run();
+	Benchmark b = new Benchmark("D:\\test\\vs\\test5\\simplewiki-20130608-pages-meta-history.xml.7z");
+	b.run();
     }
 
 }

@@ -7,7 +7,6 @@ import java.math.BigInteger;
  * is intact.
  * 
  * @author Chen, Fei (https://sites.google.com/site/chenfeiorange/)
- * @author First draft on 04-11-2013. License: GNU GPL
  * @author Email: chenfeiorange@163.com
  * 
  */

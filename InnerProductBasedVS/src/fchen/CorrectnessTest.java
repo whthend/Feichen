@@ -6,7 +6,7 @@ import java.math.BigInteger;
  * This class checks whether the protocol is implemented correctly.
  * 
  * @author Chen, Fei (https://sites.google.com/site/chenfeiorange/)
- * @author First draft on 04-11-2013. License: GNU GPL
+ * @author Last updated on 04-12-2016.
  * @author Email: chenfeiorange@163.com
  * 
  */

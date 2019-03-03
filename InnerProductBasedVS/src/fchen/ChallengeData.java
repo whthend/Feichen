@@ -17,17 +17,17 @@ public class ChallengeData
     
     public ChallengeData(int[] index, BigInteger[] coefficients)
     {
-    	this.index = index;
-    	this.coefficients = coefficients;
+	this.index = index;
+	this.coefficients = coefficients;
     }
     
     public void print()
     {
-    	System.out.println("index  -  chanllenge:");
-    	for (int i = 0; i < index.length; i++)
-        {
-            System.out.println(index[i] + "   -   " + coefficients[i].toString());
-        }
+	System.out.println("index  -  chanllenge:");
+	for (int i = 0; i < index.length; i++)
+	{
+	    System.out.println(index[i] + "   -   " + coefficients[i].toString());
+	}
     }
 
 }
